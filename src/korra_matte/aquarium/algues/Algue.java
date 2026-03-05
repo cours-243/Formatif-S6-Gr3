@@ -1,4 +1,4 @@
-package korra_matte.algues;
+package korra_matte.aquarium.algues;
 
 public class Algue {
     @Override
