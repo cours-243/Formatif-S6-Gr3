@@ -1,4 +1,4 @@
-package etudiant12.aquarium;
+package korra_matte.aquarium;
 
 public abstract class AbstractAnimal {
 
