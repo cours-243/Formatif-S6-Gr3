@@ -1,4 +1,4 @@
-package GraceBrindaDenguefang.algues;
+package GraceBrindaDenguefang.aquarium.algues;
 
 public class Algue {
 
