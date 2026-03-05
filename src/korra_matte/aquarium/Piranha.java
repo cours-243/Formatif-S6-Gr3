@@ -1,4 +1,4 @@
-package etudiant15.aquarium;
+package korra_matte.aquarium;
 
 public class Piranha extends Poisson {
 

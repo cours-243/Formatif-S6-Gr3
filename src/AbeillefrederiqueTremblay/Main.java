@@ -1,9 +1,9 @@
-package etudiant15;
+package AbeillefrederiqueTremblay;
 
-import etudiant15.aquarium.Aquarium;
-import etudiant15.aquarium.Piranha;
-import etudiant15.aquarium.Poisson;
-import etudiant15.aquarium.PoissonClown;
+import AbeillefrederiqueTremblay.aquarium.Aquarium;
+import AbeillefrederiqueTremblay.aquarium.Piranha;
+import AbeillefrederiqueTremblay.aquarium.Poisson;
+import AbeillefrederiqueTremblay.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package etudiant12.aquarium;
+package AbeillefrederiqueTremblay.aquarium;
 
 import java.util.ArrayList;
 import java.util.List;
