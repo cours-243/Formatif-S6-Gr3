@@ -8,6 +8,6 @@ public class PoissonClown extends Poisson {
 
     @Override
     public void manger() {
-        System.out.println(nom + " mange des algues");
+        System.out.println(nom + " mange des AbeillefrederiqueTremblay.aquarium.algues");
     }
 }

@@ -1,9 +1,9 @@
-package etudiant12;
+package korra_matte;
 
-import etudiant12.aquarium.Aquarium;
-import etudiant12.aquarium.Piranha;
-import etudiant12.aquarium.Poisson;
-import etudiant12.aquarium.PoissonClown;
+import korra_matte.aquarium.Aquarium;
+import korra_matte.aquarium.Piranha;
+import korra_matte.aquarium.Poisson;
+import korra_matte.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
