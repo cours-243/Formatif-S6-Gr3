@@ -1,4 +1,4 @@
-package AbeillefrederiqueTremblay.algues;
+package AbeillefrederiqueTremblay.aquarium.algues;
 
 /**
  * 420-266-H26 – POO II
