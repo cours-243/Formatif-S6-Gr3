@@ -1,8 +1,8 @@
-package korra_matte.aquarium.algues;
+package AlexisAudet.aquarium.algues;
 
 public class Algue {
     @Override
     public String toString() {
-        return "Algue";
+        return "Une algue verte.";
     }
 }
