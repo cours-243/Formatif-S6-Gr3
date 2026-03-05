@@ -1,9 +1,9 @@
-package etudiant13;
+package GraceBrindaDenguefang;
 
-import etudiant13.aquarium.Aquarium;
-import etudiant13.aquarium.Piranha;
-import etudiant13.aquarium.Poisson;
-import etudiant13.aquarium.PoissonClown;
+import GraceBrindaDenguefang.aquarium.Aquarium;
+import GraceBrindaDenguefang.aquarium.Piranha;
+import GraceBrindaDenguefang.aquarium.Poisson;
+import GraceBrindaDenguefang.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {

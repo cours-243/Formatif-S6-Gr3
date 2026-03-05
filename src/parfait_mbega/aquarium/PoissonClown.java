@@ -1,4 +1,4 @@
-package etudiant05.aquarium;
+package parfait_mbega.aquarium;
 
 public class PoissonClown extends Poisson {
 
@@ -8,6 +8,9 @@ public class PoissonClown extends Poisson {
 
     @Override
     public void manger() {
+
         System.out.println(nom + " mange des frites au ketchup");
+        System.out.println( "Sa couleur "+couleur+ "m'attire plus que tout!");
     }
+
 }
