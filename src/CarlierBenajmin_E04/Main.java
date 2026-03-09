@@ -1,9 +1,9 @@
-package etudiant04;
+package CarlierBenajmin_E04;
 
-import etudiant04.aquarium.Aquarium;
-import etudiant04.aquarium.Piranha;
-import etudiant04.aquarium.Poisson;
-import etudiant04.aquarium.PoissonClown;
+import CarlierBenajmin_E04.aquarium.Aquarium;
+import CarlierBenajmin_E04.aquarium.Piranha;
+import CarlierBenajmin_E04.aquarium.Poisson;
+import CarlierBenajmin_E04.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
@@ -20,5 +20,6 @@ public class Main {
 
         System.out.println("\nLes poissons nagent :");
         aquarium.faireNagerTous();
+
     }
 }
