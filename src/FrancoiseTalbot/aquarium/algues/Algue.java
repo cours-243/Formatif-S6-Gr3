@@ -1,4 +1,4 @@
-package FrancoiseTalbot.algues;
+package FrancoiseTalbot.aquarium.algues;
 
 public class Algue {
 
