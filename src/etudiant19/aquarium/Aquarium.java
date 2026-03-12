@@ -6,7 +6,7 @@ import java.util.List;
 public class Aquarium {
     //test
     private List<Poisson> poissons = new ArrayList<>();
-    private int capaciteMaximum =10;
+    private int capaciteMaximum=25;
 
     private  String nom = "Mon aquarium";
     
