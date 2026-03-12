@@ -8,6 +8,8 @@ public class Aquarium {
     private List<Poisson> poissons = new ArrayList<>();
     private int capaciteMax;
 
+    private  String nom = "Mon aquarium";
+    
     public Aquarium(int capaciteMax) {
         this.capaciteMax = capaciteMax;
     }
