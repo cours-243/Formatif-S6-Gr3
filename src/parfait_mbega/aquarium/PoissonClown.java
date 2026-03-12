@@ -13,4 +13,9 @@ public class PoissonClown extends Poisson {
         System.out.println( "Sa couleur "+couleur+ "m'attire plus que tout!");
     }
 
+    @Override
+    public void seDeplacer() {
+        super.seDeplacer();
+        System.out.println("Je me déplace en nageant");
+    }
 }

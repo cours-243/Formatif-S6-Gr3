@@ -12,7 +12,7 @@ public class Main {
 
         Poisson p1 = new PoissonClown("Nemo", 2, "orange");
         Poisson p2 = new Piranha("Terreur", 3, "bleu");
-        Poisson p3 = new PoissonClown("Parfait",3,"Bleu ");
+        Poisson p3 = new PoissonClown("Parfait", 3, "Bleu ");
 
         aquarium.ajouterPoisson(p1);
         aquarium.ajouterPoisson(p2);
@@ -24,7 +24,7 @@ public class Main {
         System.out.println("=======Nouveau Poisson Clown======");
         aquarium.ajouterPoisson(p3);
         p3.manger();
-
+        p3.seDeplacer();
 
 
     }
