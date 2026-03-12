@@ -6,16 +6,16 @@ import java.util.List;
 public class Aquarium {
     //test
     private List<Poisson> poissons = new ArrayList<>();
-    private int capaciteMaximum=25;
+    private int capaciteMax =25;
 
     private  String nom = "Mon aquarium";
     
     public Aquarium(int capaciteMax) {
-        this.capaciteMaximum = capaciteMax;
+        this.capaciteMax = capaciteMax;
     }
 
     public void ajouterPoisson(Poisson p) {
-        if (poissons.size() < capaciteMaximum) {
+        if (poissons.size() < capaciteMax) {
             poissons.add(p);
             System.out.println(p.getNom() + " ajouté à l'aquarium.");
         } else {
